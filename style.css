@@ -1,7 +1,7 @@
 
 /*header section*/
 
-.header-container{ 
+.h-container{ 
    display: flex;
    justify-content: space-around;
 }
